@@ -1,6 +1,6 @@
 ---
 title: "Tidyverse Census Assignment"
-author: "Your Name Here"
+author: "Elizabeth Cruz"
 format: html
 ---
 
